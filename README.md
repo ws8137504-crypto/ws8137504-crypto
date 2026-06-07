@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/026VjB0r/Quality-Restoration-Ultra-HD-Novo-projeto-1-2957108.jpg" width="700">
+  <img src="https://i.postimg.cc/026VjB0r/Quality-Restoration-Ultra-HD-Novo-projeto-1-2957108.jpg" width="900">
 </p>
 
 # Olá, eu sou Wvsz 👋
