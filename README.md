@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/bNQ2m0zb/baixados.jpg" width="900">
+  <img src="https://i.postimg.cc/sgMCVmvD/Waguri-Kaoruko.jpg" width="900">
 </p>
 
 # Olá, eu sou Wvsz 👋
