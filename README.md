@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://c.tenor.com/TdCu1_KQmAcAAAAC/tenor.gif" width="100%">
+  <img src="https://i.postimg.cc/xxxxxxxx/imagem.png" width="800">
 </p>
+
 # Olá, eu sou Wvsz 👋
 
 💻 Estudando JavaScript e TypeScript
